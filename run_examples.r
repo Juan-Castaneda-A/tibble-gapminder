@@ -14,7 +14,7 @@ library(dplyr)
 library(gapminder)
 library(ggplot2)
 
-# 🟢 1. Crear un tibble desde cero
+# 1. Crear un tibble desde cero
 mi_tibble <- tibble(
   Nombre = c("Ana", "Carlos", "Beatriz"),
   Edad = c(25, 30, 22),
